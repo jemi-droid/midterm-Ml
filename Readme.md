@@ -96,8 +96,8 @@ The following metrics were used to evaluate model performance, focusing on both 
 
 ### **Step 1: Clone this repository**
 
-git clone https://github.com/yourusername/repo-name.git  
-cd repo-name
+git clone https://github.com/jemi-droid/midterm-Ml.git  
+cd midterm-Ml
 
 ### **Step 2: Install dependencies**
 
